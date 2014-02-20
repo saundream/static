@@ -1,0 +1,4 @@
+static
+======
+
+static html page
