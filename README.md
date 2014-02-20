@@ -1,4 +1,4 @@
 static
 ======
 
-static html page
+My static html page
